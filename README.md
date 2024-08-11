@@ -1,8 +1,8 @@
-# Curvetopia
+# The Curve Enhancer Model
 
 ## Overview
 
-Curvetopia is the Adobe GenSolve project for our group, aimed at generating a model that can identify simple shape doodles. This project includes a well-structured setup process, ensuring ease of use and reproducibility. Users can clone the repository, set up a virtual environment, and manage datasets efficiently.
+The Curve Enhancer Model is the Adobe GenSolve project for our group, aimed at generating a model that can identify simple shape doodles. This project includes a well-structured setup process, ensuring ease of use and reproducibility. Users can clone the repository, set up a virtual environment, and manage datasets efficiently.
 
 Key features of Curvetopia include:
 
@@ -22,7 +22,8 @@ then open the project folder
 
 
 ```bash
-cd Curvetopia
+cd Adobe_Gensolve_Curvetopia
+
 ```
 
 ### 2. Create the 'datasets' Folder
